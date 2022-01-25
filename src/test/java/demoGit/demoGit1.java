@@ -13,6 +13,7 @@ public class demoGit1 {
 		System.out.println("hi user1 third commit---git confllit resolved");
 
 		System.out.println("hi user2 second commit");
+		System.out.println("hi user1 in branch");
 
 	}
 
